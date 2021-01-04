@@ -10,7 +10,7 @@ specify the MinCount and MaxCount
 """
 print("""       ##########################################################
                 #                                                        #           
-                #  DEPLOYING AWS INFRASTRUCTURE ... FUCK YOU JEFF BEZOS  #
+                #  DEPLOYING AWS INFRASTRUCTURE ... Amazon Web Service.  #
                 #                                                        #
                 ##########################################################      """)
 
